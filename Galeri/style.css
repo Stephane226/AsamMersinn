@@ -1,0 +1,951 @@
+.body{
+    margin:0;
+    padding:0;
+}
+.logo2{
+    margin-top:-80px;
+    margin-right:0px;
+    margin-bottom:0px;
+    margin-left:700px;
+    text-align:right;
+}
+.wordhome{
+     
+    font-size:15px;
+    color:rgb(204, 27, 36);
+    font-weight:bold;
+    border:1px solid green;
+    box-shadow:5px 8px 10px  green;
+    border-radius:15px 15px 15px 15px;
+    text-decoration:none;
+    text-align:center;
+}
+
+.wordwhoarewe{
+    font-size:15px;
+    color:rgb(4, 41, 10);
+    font-weight:bold;
+    border:1px solid green;
+    box-shadow:5px 8px 10px  green;
+    border-radius:15px 15px 15px 15px;
+    text-align:center;
+}
+.wordourunuversity{
+    font-size:15px;
+    color:black;
+    font-weight:bold;
+    border:1px solid green;
+    box-shadow:5px 8px 10px  green;
+    border-radius:15px 15px 15px 15px; 
+     text-align:center;
+}
+
+.wordgalery{
+    font-size:15px;
+    color:black;
+    font-weight:bold;
+    border:1px solid green;
+    box-shadow:5px 8px 10px  green;
+    border-radius:15px 15px 15px 15px;
+    text-align:center;
+}
+.firstlook{
+    background-image:url("internationalstudentsbackground.jpg");
+    background-attachment:fixed;
+    font-size:30px;
+    color:white;
+    text-align:left;
+    
+    font-weight:bold;
+    font-family: cursive
+}
+.afrostudentsmersin{
+    font-weight:bold;
+    text-align:center;
+    font-size:26px;
+    color:green;
+    margin-top:10px;
+}
+.text1{
+    margin-left:300px;
+    font-size:18px;
+}
+.africa-pic{
+    margin-left:780px;
+    margin-top:-280px;
+
+}
+.text2{
+    margin-left:582px;
+    font-size:18px;
+    margin-top:-200px;
+}
+.mersinuniversitesipic{
+    margin-left:300px;
+    margin-top:0px;
+
+}
+
+.ourmissions{
+    background-image:url("ourmissionpic.jpg");
+    
+    background-repeat: no-repeat;
+}
+.boardofdirectors{
+    font-weight:bold;
+    text-align:center;
+    font-size:26px;
+    color:green;
+    margin-top:10px;
+}
+.table1{
+    margin-left:0px;
+
+}
+.sanogopic{
+    text-align:ce;
+    margin-top:10px;
+    margin-left:537px;
+    
+}
+.greenbackground{
+                  background-image:url("bg.png") ;
+                 
+}
+.blogs{
+    text-align:center;
+    font-weight:22px;
+}
+.greenbackground2{
+    background-image:url("g1.png") ;
+    background-repeat:repeat-y
+}
+.new1{
+    border:1px solid green;
+    border-radius:5px;
+    box-shadow:6px 5px 8px 2px rgb(128, 155, 128);
+}
+.new2{
+    border:1px solid green;
+    border-radius:5px;
+    box-shadow:6px 5px 8px 2px rgb(128, 155, 128);
+}
+
+
+.new3{
+    border:1px solid green;
+    border-radius:5px;
+    box-shadow:6px 5px 8px 2px rgb(128, 155, 128);
+}
+
+
+.new4{
+    border:1px solid green;
+    border-radius:5px;
+    box-shadow:6px 5px 8px 2px rgb(128, 155, 128);
+}
+#carouselExampleIndicators{
+    width:82%;
+    height: 30%;
+    
+    margin-left:120px;
+}
+.blog2{
+    
+    width:100%;
+    color:white;
+    background-color:rgb(234, 250, 242);
+    text-align:center;
+    margin-left:0px;
+    background-image:url(g.jpg);
+    background-attachment:fixed;
+  
+    border-top-left-radius:19px;
+    border-top-right-radius:18px;
+}
+.Graduaded{
+    text-align:center;
+    background-color:rgb(194, 250, 224);
+    font-family: cursive;
+    width:95%;
+    margin-left:42px;
+}
+.greenbackground3{
+    background-image:url("g1.png");
+    background-size: 90% 70%;
+    background-repeat:repeat-y;
+    text-align:right;
+}
+#mezun1{
+    text-align:center;
+}
+#mezun2{
+    text-align:center;
+}
+#mezun3{
+    text-align:right;
+}
+.president-speach{
+    text-align:center;
+    font-size:23px;
+   
+}
+.gallerypage{
+    text-align:center;
+    margin-left:210px;
+    width:70%;
+}
+.topbanner{ 
+    position:fixed;
+    width:100%;
+    background-color:white;
+    z-index:100000;
+    margin-bottom:120px;
+  
+}
+.line1{
+    border:1px green solid;
+    margin-top:px;
+    box-shadow:1px 1px rgb(196, 231, 196);
+}
+#galerieprincipale{
+    text-align: center;
+    margin-left:200px;  
+    width:70½
+}
+.row img{
+       border:1px green solid;
+}
+#topbaner{ 
+    position:fixed;
+    width:100%;
+    background-color:rgb(214, 243, 198); height:80px;
+
+    z-index:100000;
+   
+}
+#homea{
+    margin-left:40px;
+   
+}
+#lestroistexts{ 
+    text-align:center;
+}
+#menuelements{
+    font-size:15px;
+   
+   
+}
+#topbaner{ 
+    position:fixed;
+    width:100%;
+
+
+    z-index:100000;
+   
+}
+
+
+
+.container.gallery-container {
+    background-color: #fff;
+    color: #35373a;
+    min-height: 100vh;
+    border-radius: 20px;
+    width:100%;
+    box-shadow: 0 8px 15px rgba(0, 0, 0, 0.06);
+}
+
+.gallery-container h1 {
+    text-align: center;
+    margin-top: 70px;
+    font-family: 'Droid Sans', sans-serif;
+    font-weight: bold;
+}
+
+.gallery-container p.page-description {
+    text-align: center;
+    max-width: 100%;
+    margin: 25px auto;
+    color: #888;
+    font-size: 18px;
+}
+
+.tz-gallery {
+    padding: 40px;
+}
+
+.tz-gallery .lightbox img {
+    width: 100%;
+    margin-bottom: 30px;
+    transition: 0.2s ease-in-out;
+    box-shadow: 0 2px 3px rgba(0,0,0,0.2);
+}
+
+
+.tz-gallery .lightbox img:hover {
+    transform: scale(1.05);
+    box-shadow: 0 8px 15px rgba(0,0,0,0.3);
+}
+
+.tz-gallery img {
+    border-radius: 4px;
+}
+
+.baguetteBox-button {
+    background-color: transparent !important;
+}
+
+
+@media(max-width: 768px) {
+    body {
+        padding: 0;
+    }
+
+    .container.gallery-container {
+        border-radius: 0;
+    }
+}
+#socialmediaicon1:hover{
+    -webkit-transform:scale(1.4);
+    transform: scale(1.4)
+
+}
+#socialmediaicon2:hover{
+    -webkit-transform:scale(1.4);
+    transform: scale(1.4)
+
+}
+#socialmediaicon3:hover{
+    -webkit-transform:scale(1.4);
+    transform: scale(1.4)
+
+}#socialmediaicon4:hover{
+    -webkit-transform:scale(1.4);
+    transform: scale(1.4)
+
+}
+.body{
+    margin:0;
+    padding:0;
+}
+.logo2{
+    margin-top:-70px;
+    margin-right:0px;
+    
+    margin-left:700px;
+    text-align:right;
+}
+.wordhome{
+     
+    font-size:15px;
+    color:rgb(204, 27, 36);
+    font-weight:bold;
+    border:1px solid green;
+    box-shadow:5px 8px 10px  green;
+    border-radius:15px 15px 15px 15px;
+    text-decoration:none;
+    text-align:center;
+    background-color:white;
+    
+}
+#bout{
+    border-right:1px green solid;
+  
+ 
+     
+}
+
+.wordwhoarewe{
+    font-size:13px;
+    color:rgb(4, 41, 10);
+    font-weight:bold;
+    border:1px solid green;
+    box-shadow:5px 8px 10px  green;
+    border-radius:15px 15px 15px 15px;
+    text-align:center;
+    background-color:white;
+}
+.wordourunuversity{
+    font-size:15px;
+    color:black;
+    font-weight:bold;
+    border:1px solid green;
+    box-shadow:5px 8px 10px  green;
+    border-radius:15px 15px 15px 15px;
+    text-align:center;
+    background-color:white;
+}
+
+.wordgalery{
+    font-size:15px;
+    color:black;
+    font-weight:bold;
+    border:1px solid green;
+    box-shadow:5px 8px 10px  green;
+    border-radius:15px 15px 15px 15px;
+    text-align:center;
+    background-color:white;
+}
+.firstlook{
+    background-image:url("internationalstudentsbackground.jpg");
+    background-attachment:fixed;
+    font-size:30px;
+    color:white;
+    text-align:left;
+    font-weight:bold;
+    font-family: cursive;
+}
+.afrostudentsmersin{
+    font-weight:bold;
+    text-align:center;
+    font-size:26px;
+    color:green;
+    margin-top:10px;
+}
+.text1{
+    margin-left:300px;
+    font-size:18px;
+}
+.africa-pic{
+    margin-left:780px;
+    margin-top:-280px;
+
+}
+.blokk{
+    text-align:center;
+}
+.text2{
+    margin-left:582px;
+    font-size:18px;
+    margin-top:-200px;
+
+}
+.mersinuniversitesipic{
+    margin-left:300px;
+    margin-top:0px;
+
+}
+
+.ourmissions{
+    background-image:url("ourmissionpic.jpg");
+    
+    background-repeat: no-repeat;
+}
+.boardofdirectors{
+    font-weight:bold;
+    text-align:center;
+    font-size:26px;
+    color:green;
+    margin-top:10px;
+}
+.table1{
+    margin-left:0px;
+
+}
+.sanogopic{
+    text-align:ce;
+    margin-top:10px;
+    margin-left:537px;
+    
+}
+.greenbackground{
+                  background-image:url("bg.png") ;
+                 
+}
+.blogs{
+   
+    font-weight:22px;
+    width:98%;
+    text-align:center;
+    margin-left:10px;
+}
+.greenbackground2{
+    background-image:url("g1.png") ;
+    background-repeat:repeat-y
+}
+.new1{
+    border:1px solid green;
+    border-radius:5px;
+    box-shadow:6px 5px 8px 2px rgb(128, 155, 128);
+}
+.new2{
+    border:1px solid green;
+    border-radius:5px;
+    box-shadow:6px 5px 8px 2px rgb(128, 155, 128);
+}
+
+
+.new3{
+    border:1px solid green;
+    border-radius:5px;
+    box-shadow:6px 5px 8px 2px rgb(128, 155, 128);
+}
+
+
+.new4{
+    border:1px solid green;
+    border-radius:5px;
+    box-shadow:6px 5px 8px 2px rgb(128, 155, 128);
+}
+#carouselExampleIndicators{
+    width:82%;
+    height: 30%;
+    
+    margin-left:120px;
+}
+.blog2{
+    
+    width:100%;
+    color:white;
+    background-color:rgb(234, 250, 242);
+    text-align:center;
+    margin-left:0px;
+    background-image:url(g.jpg);
+    background-attachment:fixed;
+    margin-bottom:0px;
+  
+   /* border-bottom-left-radius:30px;
+    border-bottom-right-radius:30px;*/
+     
+
+   
+    
+    
+}
+table{
+    width:100%
+}
+
+#bouto:hover{
+    color:white;
+    background-color:rgb(44, 138, 75);
+}
+.Graduaded{
+    
+  
+    font-family:sans-serif;
+    
+    text-align:center;
+    margin:0 auto;
+    padding:3px;
+
+}
+.greenbackground3{
+    background-image:url("g1.png");
+    /*background-size: 90% 70%;*/
+    background-repeat:repeat-y;
+    text-align:right;
+}
+#mezun1{
+    text-align:center;
+    border-right:1px solid #333;
+    border-left:1px solid #333
+}
+#mezun2{
+    text-align:center;
+    border-right:1px solid #333;
+    border-left:1px solid #333
+}
+#mezun3{
+    text-align:right;
+   
+}
+#mz3{
+    text-align:center;
+    border-right:1px solid #333;
+    border-left:1px solid #333
+}
+.president-speach{
+    width:100%;
+    margin:0 auto;
+    color:#333;
+    text-align:center;
+    font-size:;
+    background-color:rgba(175, 214, 175, 0.1);
+   /* background-image:url(g.jpg);*/
+    background-attachment:fixed;
+   
+   
+}
+#topbaner{ 
+    position:fixed;
+    width:100%;
+
+
+    z-index:100000;
+   
+}
+.para1{
+    background-color:green;
+ 
+}
+.para2{
+    background-color:rgb(230, 53, 53);
+
+}
+.para3{
+    background-color:rgb(229, 250, 109);
+  
+}
+.texts{
+    text-align:center;
+
+}
+#homea{
+    margin-left:40px;
+   
+}
+#lestroistexts{ 
+    text-align:center;
+}
+#menuelements{
+    font-size:15px;
+   
+   
+}
+#sliderss{
+    text-align:left;
+}
+#click1{
+    text-align:center;
+}
+.comeup{
+    text-align:right;
+    position: fixed;
+}
+#imageblog1:hover {
+    -webkit-transform: scale(1);
+    transform: scale(1.1);
+    border-radius:20px;
+}
+
+#imageblog2{
+    margin-top:-10px;
+}
+#imageblog2:hover {
+    -webkit-transform: scale(1);
+    transform: scale(1.1);
+    border-radius:20px;
+   
+}
+#imageblog3:hover {
+    -webkit-transform: scale(1);
+    transform: scale(1.1);
+    border-radius:20px;
+}
+#imageblogB1:hover {
+    -webkit-transform: scale(1);
+    transform: scale(1.1);
+    border-radius:20px;
+}
+
+#imageblogB2:hover {
+    -webkit-transform: scale(1);
+    transform: scale(1.1);
+    border-radius:20px;
+}
+#imageblogB3:hover {
+    -webkit-transform: scale(1);
+    transform: scale(1.1);
+    border-radius:20px;
+}
+#imageblogB4:hover {
+    -webkit-transform: scale(1);
+    transform: scale(1.1);
+    border-radius:20px;
+}
+#Graduatedblogimg1:hover{
+    -webkit-transform:scale(1.8);
+    transform: scale(1.8)
+
+}
+#Graduatedblogimg2:hover{
+    -webkit-transform:scale(1.8);
+    transform: scale(1.8)
+
+}#Graduatedblogimg3:hover{
+    -webkit-transform:scale(1.8);
+    transform: scale(1.8)
+
+}
+#socialmediaicon1:hover{
+    -webkit-transform:scale(1.4);
+    transform: scale(1.4)
+
+}
+#socialmediaicon2:hover{
+    -webkit-transform:scale(1.4);
+    transform: scale(1.4)
+
+}
+#socialmediaicon3:hover{
+    -webkit-transform:scale(1.4);
+    transform: scale(1.4)
+
+}
+#socialmediaicon4:hover{
+    -webkit-transform:scale(1.4);
+    transform: scale(1.4)
+
+}
+.centersliders{
+    width:100%;
+    height:600px;
+    position:left;
+   
+}
+table{
+  margin:0 auto;
+}
+tr{
+ 
+  
+}
+.td1{
+ width:5%;
+ padding:5px;
+ /* background-color:rgba(9, 148, 9, 0.4);*/
+}
+.td2{
+    width:90%;
+   padding-left:50px;
+   
+ 
+    
+}
+.td3{
+    width:5%;
+   /* background-color:rgba(9, 148, 9, 0.4);*/
+}
+.cont1{
+    width:100%;
+    margin:0 auto;
+    background-image:url(g.jpg);
+    background-attachment:fixed;
+}
+#sn{
+    margin:10px;
+
+}
+
+footer.footer-section {
+    background-color: #333; 
+    padding: 10px 0 50px;
+}
+.bg-with-black {
+    position: relative;
+}
+.footer-top-section {
+    margin: 0 0 47px;
+}
+.single-fta > img {
+    margin: 0 0 7px;
+}
+.single-fta ul.fta-list {
+    list-style: outside none none;
+    padding-left: 0;
+}
+.single-fta ul.fta-list li, .single-fta ul.fta-list li a {
+    color: rgb(255, 255, 255);
+    display: block;
+    font-size: 14px;
+    letter-spacing: 0;
+    line-height: 36px;
+}
+.single-fta ul.fta-list {
+    list-style: outside none none;
+    padding-left: 0;
+}
+.fta-title {
+    color:  rgb(255, 255, 255);
+    font-weight: 300;
+    letter-spacing: 0;
+    margin: 0 0 20px;
+    
+}
+
+.fba-links {
+    text-align: right;
+   
+}
+
+.fba-links ul li a {
+    color:  #333;
+    display: block;
+    font-size: 14px;
+    letter-spacing: 0;
+}
+.fba-links ul {
+    list-style: outside none none;
+    padding: 0;
+}
+.fba-links ul li {
+    display: inline-block;
+    margin-left: 28px;
+}
+.fba-copyright p {
+    color:  #333;
+    line-height: 30px;
+}
+
+
+
+
+
+
+
+
+
+
+
+.slider {
+    height:550px;
+    width: 100%;
+    position: relative;
+    overflow: hidden;
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-flex-flow: row nowrap;
+    -ms-flex-flow: row nowrap;
+    flex-flow: row nowrap;
+    -webkit-box-align: end;
+    -webkit-align-items: flex-end;
+    -ms-flex-align: end;
+    align-items: flex-end;
+    -webkit-box-pack: center;
+    -webkit-justify-content: center;
+    -ms-flex-pack: center;
+    justify-content: center;
+  }
+  
+  .slider__nav {
+    width: 12px;
+    height: 12px;
+    margin: 2rem 12px;
+    border-radius: 50%;
+    z-index: 10;
+    outline: 6px solid #ccc;
+    outline-offset: -6px;
+    box-shadow: 0 0 0 0 #333, 0 0 0 0 rgba(51, 51, 51, 0);
+    cursor: pointer;
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
+    -webkit-backface-visibility: hidden;
+    backface-visibility: hidden;
+  }
+  
+  .slider__nav:checked {
+    -webkit-animation: check 0.5s linear forwards;
+    animation: check 0.5s linear forwards;
+  }
+  
+  .slider__nav:checked:nth-of-type(1) ~ .slider__inner {
+    -webkit-transform: translateX(0%);
+    transform: translateX(0%);
+  }
+  
+  .slider__nav:checked:nth-of-type(2) ~ .slider__inner {
+    -webkit-transform: translateX(-25%);
+    transform: translateX(-25%);
+  }
+  
+  .slider__nav:checked:nth-of-type(3) ~ .slider__inner {
+    -webkit-transform: translateX(-50%);
+    transform: translateX(-50%);
+  }
+  
+  .slider__nav:checked:nth-of-type(4) ~ .slider__inner {
+    -webkit-transform: translateX(-75%);
+    transform: translateX(-75%);
+  }
+  
+  .slider__inner {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 400%;
+    height: 100%;
+    -webkit-transition: all 1s ease-out;
+    transition: all 1s ease-out;
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-flex-flow: row nowrap;
+    -ms-flex-flow: row nowrap;
+    flex-flow: row nowrap;
+  }
+  
+  .slider__contents {
+    height: 100%;
+    padding: 2rem;
+    text-align: center;
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-flex: 1;
+    -webkit-flex: 1;
+    -ms-flex: 1;
+    flex: 1;
+    -webkit-flex-flow: column nowrap;
+    -ms-flex-flow: column nowrap;
+    flex-flow: column nowrap;
+    -webkit-box-align: center;
+    -webkit-align-items: center;
+    -ms-flex-align: center;
+    align-items: center;
+    -webkit-box-pack: center;
+    -webkit-justify-content: center;
+    -ms-flex-pack: center;
+    justify-content: center;
+  }
+  
+  .slider__image { font-size: 2.7rem; }
+  
+  .slider__caption {
+    font-weight: 700;
+    margin: 2rem 0 1rem;
+    text-shadow: 0 1px 1px rgba(0, 0, 0, 0.1);
+    text-transform: uppercase;
+  }
+  
+  .slider__txt {
+    color: #999;
+    margin-bottom: 3rem;
+    max-width:65%;
+    
+  }
+  The CSS3 rules for the check animations.
+  
+  @-webkit-keyframes 
+  check {  50% {
+   outline-color: #333;
+   box-shadow: 0 0 0 12px #333, 0 0 0 36px rgba(51, 51, 51, 0.2);
+  }
+   100% {
+   outline-color: #333;
+   box-shadow: 0 0 0 0 #333, 0 0 0 0 rgba(51, 51, 51, 0);
+  }
+  }
+  
+  @keyframes 
+  check {  50% {
+   outline-color: #333;
+   box-shadow: 0 0 0 12px #333, 0 0 0 36px rgba(51, 51, 51, 0.2);
+  }
+   100% {
+   outline-color: #333;
+   box-shadow: 0 0 0 0 #333, 0 0 0 0 rgba(51, 51, 51, 0);
+  }
+  }
+
+  @media (min-width: 13300px){
+  .container.gallery-container{
+      width:100%
+  }
+}
