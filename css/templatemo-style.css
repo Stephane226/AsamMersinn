@@ -16,6 +16,7 @@ https://templatemo.com/tm-516-known
 
   }
 
+
   /*---------------------------------------
      TYPOGRAPHY              
   -----------------------------------------*/
@@ -921,6 +922,8 @@ footer li a{
       padding-right: 10px;
       padding-left: 10px;
     }
+    html, body {overflow-x: hidden;
+   };
   }
 
   @media only screen and (max-width: 767px) {
@@ -977,6 +980,8 @@ footer li a{
       display: block;
       margin: 0 auto;
     }
+    html, body {overflow-x: hidden;
+    };
   }
 
 
@@ -992,6 +997,8 @@ footer li a{
     .contact-image {
       margin-top: 0;
     }
+    html, body {overflow-x: hidden;
+    };
   }
 
   @media only screen and (max-width: 480px) {
@@ -1011,6 +1018,8 @@ footer li a{
       width: inherit;
       height: inherit;
     }
+    html, body {overflow-x: hidden;
+    };
   }
   
 
