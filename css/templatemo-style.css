@@ -201,7 +201,9 @@ https://templatemo.com/tm-516-known
     border-color: transparent;
   }
 
-
+  .ynt .owl-carousel .owl-item img{
+    height:400px
+  }
 
   /*---------------------------------------
        PRE LOADER              
